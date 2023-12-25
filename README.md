@@ -1,4 +1,4 @@
-# React-NextUI-Starter
+# React + NextUI Starter
 
 Starter kit for React + NextUI projects
 
